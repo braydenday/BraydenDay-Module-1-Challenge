@@ -19,6 +19,13 @@ N/A . This is a web application using an URL link
 
 A website optimized for search engine help, online reputation management, social media marketing, and much more! 
 
+    ```md
+    ![first half of the page](assets/images/Screenshot1.png)
+    ```
+    ```md
+    ![second half of the page](assets/images/Screenshot2.png)
+    ```
+
 ## Credits
 
 Xandromus - https://github.com/coding-boot-camp/urban-octo-telegram
