@@ -13,18 +13,15 @@ Horiseon wanted their site optimized for search engines. I created this project 
 
 ## Installation
 
-N/A . This is a web application using an URL link
+N/A . This is a web application using an URL link. https://braydenday.github.io/Module-1-Challenge/
 
 ## Usage
 
 A website optimized for search engine help, online reputation management, social media marketing, and much more! 
 
-    ```md
     ![first half of the page](assets/images/Screenshot1.png)
-    ```
-    ```md
+
     ![second half of the page](assets/images/Screenshot2.png)
-    ```
 
 ## Credits
 
