@@ -19,9 +19,9 @@ N/A . This is a web application using an URL link. https://braydenday.github.io/
 
 A website optimized for search engine help, online reputation management, social media marketing, and much more! 
 
-![first half of the page](/Develop/assets/images/Screenshot1.png?raw=true "First Half of the URL Page")
+![first half of the page](Screenshot1.png?raw=true "First Half of the URL Page")
 
-![second half of the page](/Develop/assets/images/Screenshot2.png?raw=true "Second Half of the URL Page")
+![second half of the page](Screenshot2.png?raw=true "Second Half of the URL Page")
 
 ## Credits
 
