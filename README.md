@@ -1,8 +1,8 @@
-# Module-1-Challenge>
+# Braydenday-Module-1-Challenge>
 
 ## Description
 
-Horiseon wanted their site optimized for search engines. I created this project to help a marketing agency refactor an existing site to make it more accessible. This can ensure people with disabilities can access a website using assistive technologies such as video captions and screen readers. I learned how to code semantic HTML elements in a logical structure, alt attributes for images, and refactoring code in the Scout Rule (always leave code cleaner than you found it).
+Horiseon wanted their site optimized for search engines so I created this project to help a marketing agency refactor an existing site for more accessibility. I learned how to code semantic HTML elements in a logical structure, apply alt attributes and source links for images, linking a CSS sheet to the HTML sheet and other meta data, style CSS using universale/element/class selectors, applying margin/height/width/padding/etc. to the css selectors, and refactoring the code in the Scout Rule (always leave code cleaner than you found it)!
 
 ## Table of Contents
 
@@ -13,15 +13,15 @@ Horiseon wanted their site optimized for search engines. I created this project 
 
 ## Installation
 
-N/A . This is a web application using an URL link. https://braydenday.github.io/Module-1-Challenge/
+N/A . This is a web application using an URL link. https://braydenday.github.io/BraydenDay-Module-1-Challenge/
 
 ## Usage
 
 A website optimized for search engine help, online reputation management, social media marketing, and much more! 
 
-    ![first half of the page](assets/images/Screenshot1.png)
+![first half of the page](/Develop/assets/images/Screenshot1.png?raw=true "First Half of the URL Page")
 
-    ![second half of the page](assets/images/Screenshot2.png)
+![second half of the page](/Develop/assets/images/Screenshot2.png?raw=true "Second Half of the URL Page")
 
 ## Credits
 
