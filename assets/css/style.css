@@ -1,11 +1,11 @@
-/* Universal Selector */
+/* Universal Selector. This applies the box sizing selector to the entire CSS page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Element Selectors */
+/* Element Selectors. This affects the body and a elements. It makes the whole body section the white color as well as the A tags on the top of the web page*/
 body {
     background-color: #d9dcd6;
 }
@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 
-/* Class Selectors */
+/* Class Selectors. This affects all the class elements. Specifically being where you can modify all the individual blocks of code to line up on the page, fonts, colors, etc. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,7 +57,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/*this is for the layout of the images on the page under the content section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,7 +72,7 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*this styles the box on the right side of the page with lead generation, brand awareness, etc. H3 tags*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,20 +84,21 @@ a {
     background-color: #2589bd;
 }
 
+/* this groups multiple classes together into one CSS rule by using the , to seperate them. This helps with the DRY (dont repeat yourself) rule.*/
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* this groups multiple classes together into one CSS rule by using the , to seperate them. This helps with the DRY (dont repeat yourself) rule.*/
 .benefit-lead h3, 
 .benefit-brand h3, 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* this groups multiple classes together into one CSS rule by using the , to seperate them. This helps with the DRY (dont repeat yourself) rule.*/
 .benefit-lead img, 
 .benefit-brand img, 
 .benefit-cost img {
@@ -105,7 +106,7 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this groups multiple classes together into one CSS rule by using the , to seperate them. This helps with the DRY (dont repeat yourself) rule.*/
 .search-engine-optimization, 
 .online-reputation-management,
 .social-media-marketing {
@@ -126,14 +127,14 @@ a {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* this groups multiple classes together into one CSS rule by using the , to seperate them. This helps with the DRY (dont repeat yourself) rule.*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*this will design your footer class section on the bottom of your webpage and below is the font size for it*/
 .footer {
     padding: 30px;
     clear: both;
